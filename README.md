@@ -43,4 +43,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-Made with ❤️ by [**theunstopabble**](https://github.com/theunstopabble)
+Made by [**theunstopabble**](https://github.com/theunstopabble)
