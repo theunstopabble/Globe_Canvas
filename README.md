@@ -15,7 +15,9 @@ Globe Canvas is a lightweight web project showcasing an interactive, visually ap
 
 ## Technologies Used
 
-- HTML (100%)
+- HTML
+- css
+- js
 
 ## Getting Started
 
